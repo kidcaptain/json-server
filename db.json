@@ -1,0 +1,542 @@
+{
+  "superAdministrateur": {
+    "id": 1,
+    "creationTime": "Mon, 28 Nov 2022 21:44:52 GMT",
+    "displayName": "user_74404665",
+    "email": "pauline48@gmail.com",
+    "emailVerified": false,
+    "telehone": 692025654,
+    "password": "pauline001",
+    "lastSignInTime": "Mon, 28 Nov 2022 21:44:52 GMT",
+    "photoURL": null,
+    "uid": "62GVmTuncrY5ouvzb2Le9j07B1W2"
+  },
+  "utilisateurs": [
+    {
+      "id": 1,
+      "firstName": "json-server",
+      "lastName": "typicode",
+      "email": "allicom@companie.com",
+      "telehone": 692025654,
+      "actif": "true"
+    },
+    {
+      "id": 2,
+      "firstName": "Bob",
+      "lastName": "Bob",
+      "email": "bob@companie.com",
+      "telehone": 692025654,
+      "actif": "true"
+    },
+    {
+      "firstName": "John",
+      "lastName": "Doe",
+      "email": "admin@gmail.com",
+      "telephone": "06885555",
+      "countrie": "Cameroon",
+      "password": "123456789",
+      "role": 3,
+      "id": 3,
+      "actif": "true"
+    },
+    {
+      "firstName": "paul",
+      "lastName": "bernard",
+      "email": "hunterjul007@gmail.com",
+      "telephone": "652310",
+      "countrie": "Algeria",
+      "password": "hunterjul00",
+      "role": 1,
+      "id": 4,
+      "actif": "true"
+    },
+    {
+      "firstName": "admin",
+      "lastName": "admin",
+      "email": "admin@gmail.com",
+      "telephone": "06885555",
+      "countrie": "Angola",
+      "role": "1",
+      "password": "admin123",
+      "id": 5,
+      "actif": "true"
+    },
+    {
+      "firstName": "hunter",
+      "lastName": "Doe2",
+      "email": "Eko@gmail.com",
+      "telephone": "007",
+      "countrie": "CA",
+      "role": 1,
+      "password": "",
+      "id": 6,
+      "actif": "true"
+    },
+    {
+      "firstName": "jojo",
+      "lastName": "bernard",
+      "email": "Eko@gmail.com",
+      "telephone": "06885555",
+      "countrie": "CA",
+      "role": 1,
+      "password": "",
+      "id": 7,
+      "actif": "true"
+    },
+    {
+      "firstName": "goku",
+      "lastName": "Sangoku",
+      "email": "chichi@gmail.com",
+      "telephone": "06885555",
+      "countrie": "Algeria",
+      "role": "2",
+      "password": "chichi007",
+      "id": 8,
+      "actif": "true"
+    },
+    {
+      "firstName": "John",
+      "lastName": "Doe",
+      "email": "admin@gmail.com",
+      "telephone": "06885555",
+      "countrie": "",
+      "role": 1,
+      "password": "522",
+      "id": 9,
+      "actif": "true"
+    },
+    {
+      "firstName": "John",
+      "lastName": "Doe",
+      "email": "pok@gmail.com",
+      "telephone": "06885555",
+      "countrie": "",
+      "role": 1,
+      "password": "123456789",
+      "id": 10,
+      "actif": "true"
+    },
+    {
+      "firstName": "Jul",
+      "lastName": "leroi",
+      "email": "leroijul@yahoo.fr",
+      "telephone": "06885555",
+      "countrie": "",
+      "role": "2",
+      "password": "123456789",
+      "id": 11,
+      "actif": "true"
+    },
+    {
+      "firstName": "garet",
+      "lastName": "william",
+      "email": "kidcapt7@gmail.com",
+      "telephone": "693027736",
+      "countrie": "CA",
+      "role": 1,
+      "password": "",
+      "id": 12,
+      "actif": "true"
+    },
+    {
+      "firstName": "paul",
+      "lastName": "bernard",
+      "email": "paulemploie@gmail.com",
+      "telephone": "06885555",
+      "countrie": "Åland Islands",
+      "role": "2",
+      "password": "123456789",
+      "id": 13,
+      "actif": "true"
+    },
+    {
+      "firstName": "John",
+      "lastName": "Doe",
+      "email": "admin2@gmail.com",
+      "telephone": "06885555",
+      "countrie": "Cameroon",
+      "role": "2",
+      "password": "11111111",
+      "id": 14,
+      "actif": "true"
+    },
+    {
+      "firstName": "hunter",
+      "lastName": "jul",
+      "email": "hunterjul008@gmail.com",
+      "telephone": "06885555",
+      "countrie": "Andorra",
+      "role": 1,
+      "password": "hunterjul007",
+      "id": 15,
+      "actif": "true"
+    },
+    {
+      "firstName": "Oums",
+      "lastName": "Thales",
+      "email": "admin3@gmail.com",
+      "telephone": "06885555",
+      "countrie": "Cameroun",
+      "role": 2,
+      "password": "123456789",
+      "id": 16
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Paradise Hotel",
+      "siteWeb": "http://localhost:5173/hotels",
+      "tel": "125-96-200",
+      "metaPays": "cameroun",
+      "pays": "Cameroun",
+      "metaVille": "yaounde",
+      "ville": "Yaoundé",
+      "metaQuartier": "bastos",
+      "quartier": "Bastos",
+      "adresse": "Cameroun Yaoundé, Bastos ",
+      "description": "rie",
+      "about": "o",
+      "email": "paradise@company.com",
+      "id": 1,
+      "uid": 2,
+      "profileImage": "https://lh3.googleusercontent.com/gps-proxy/AF-Tc0SaQEa4LwatXKjvrATCxl13tYZ8ytYRP4Lo954nRk8VfsSMFi8KqBMTpEq5zF0CfkoQE_ITyXxSzHTGFmlxFH9fKkEDbUrB-DDFYrh7QIFQbme_xubG9hCfudYFU2hVSWMgGPTfRsNWVcbvtWngkl3KZ59rzUQ-vCDHRk_AqcJrEofJw1xb0_dwng=w408-h306-k-no",
+      "images": [],
+      "equipement": [
+        1,
+        2
+      ],
+      "timeLimite": 2,
+      "mapsLink": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2962.071483068982!2d11.519473921848254!3d3.853822241034813!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x108bcf89bf2570d7%3A0x185349b30ae10061!2sHotel%20Fraicheur!5e0!3m2!1sfr!2scm!4v1690169909473!5m2!1sfr!2scm' height='450' style='border:0; width: 100%' class='w-full' allowfullscreen='false' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>",
+      "star": "2"
+    },
+    {
+      "name": "Hotel du Park ",
+      "siteWeb": "parkhotel.com",
+      "tel": "158-52-699",
+      "metaPays": "france",
+      "pays": "France",
+      "metaVille": "paris",
+      "ville": "Paris",
+      "metaQuartier": "bastille",
+      "quartier": "Bastille",
+      "adresse": "Paris, france, bastille rue 405",
+      "description": "L'fifjids sd",
+      "about": "dsfsd",
+      "profileImage": "https://lh3.googleusercontent.com/gps-proxy/AF-Tc0SaQEa4LwatXKjvrATCxl13tYZ8ytYRP4Lo954nRk8VfsSMFi8KqBMTpEq5zF0CfkoQE_ITyXxSzHTGFmlxFH9fKkEDbUrB-DDFYrh7QIFQbme_xubG9hCfudYFU2hVSWMgGPTfRsNWVcbvtWngkl3KZ59rzUQ-vCDHRk_AqcJrEofJw1xb0_dwng=w408-h306-k-no",
+      "email": "parkhotel@gmail.com",
+      "images": [],
+      "mapsLink": "",
+      "id": 2,
+      "uid": 8,
+      "equipement": [
+        1,
+        2
+      ],
+      "timeLimite": 2,
+      "star": "2"
+    },
+    {
+      "name": "Kentuki hotel",
+      "siteWeb": "http://kentuki.com",
+      "tel": "6895245352",
+      "metaPays": "cameroun",
+      "pays": "Cameroun",
+      "metaVille": "yaounde",
+      "ville": "Yaoundé",
+      "metaQuartier": "bastos",
+      "quartier": "Bastos",
+      "adresse": "Cameroun Yaoundé, Bastos ",
+      "description": "ZEREZVDOSJ JSD",
+      "about": "SDFOISDJOIFJ ISDJ",
+      "email": "kentuki@kentuki.com",
+      "timeLimite": 2,
+      "profileImage": "https://lh3.googleusercontent.com/gps-proxy/AF-Tc0SaQEa4LwatXKjvrATCxl13tYZ8ytYRP4Lo954nRk8VfsSMFi8KqBMTpEq5zF0CfkoQE_ITyXxSzHTGFmlxFH9fKkEDbUrB-DDFYrh7QIFQbme_xubG9hCfudYFU2hVSWMgGPTfRsNWVcbvtWngkl3KZ59rzUQ-vCDHRk_AqcJrEofJw1xb0_dwng=w408-h306-k-no",
+      "images": [],
+      "uid": 11,
+      "mapsLink": "",
+      "id": 3,
+      "equipement": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "star": "2"
+    },
+    {
+      "name": "Dakotel Palace",
+      "siteWeb": "http://dakotel.com",
+      "tel": "69523204",
+      "metaPays": "cameroun",
+      "pays": "Cameroon",
+      "metaVille": "yaounde",
+      "ville": "yaounde",
+      "metaQuartier": "manguier",
+      "quartier": "manguier",
+      "adresse": "Cameroun, Yaoundé, Messa, Carrefour Nkonkana",
+      "description": "qsd",
+      "about": "sqd",
+      "email": "dakotel@gmail.com",
+      "equipement": [],
+      "images": [],
+      "mapsLink": "",
+      "profileImage": "https://lh3.googleusercontent.com/gps-proxy/AF-Tc0SaQEa4LwatXKjvrATCxl13tYZ8ytYRP4Lo954nRk8VfsSMFi8KqBMTpEq5zF0CfkoQE_ITyXxSzHTGFmlxFH9fKkEDbUrB-DDFYrh7QIFQbme_xubG9hCfudYFU2hVSWMgGPTfRsNWVcbvtWngkl3KZ59rzUQ-vCDHRk_AqcJrEofJw1xb0_dwng=w408-h306-k-no",
+      "metaAdresse": "cameroun,_yaoundé, messa, carrefour nkonkana",
+      "uid": 13,
+      "id": 4,
+      "star": "5"
+    }
+  ],
+  "equipements": [
+    {
+      "id": 1,
+      "label": "Accès au wifi inclus",
+      "icon": "",
+      "slug": "acces_au_wifi_inclus"
+    },
+    {
+      "id": 2,
+      "label": "Petit déjeuner en supplement",
+      "icon": "",
+      "slug": "petit_dejeuner_en_supplement"
+    },
+    {
+      "id": 3,
+      "label": "Parking gratuit",
+      "icon": "",
+      "slug": "parking_gratuit"
+    },
+    {
+      "id": 4,
+      "label": "Accès au wifi inclus",
+      "icon": "",
+      "slug": "acces_au_wifi_inclus"
+    },
+    {
+      "id": 5,
+      "label": "Accès au wifi inclus",
+      "icon": "",
+      "slug": "acces_au_wifi_inclus"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "typeChambres": [
+    {
+      "id": 1,
+      "lib": "chambre simple",
+      "quantity": 4,
+      "personPerRoom": "2",
+      "numberOfBed": "1 grands",
+      "size": "grande",
+      "idHotel": 2,
+      "price": 15000,
+      "attributes": [
+        "2 personnes",
+        "1 salle de bain"
+      ],
+      "images": [
+        "http://localhost:5173/src/assets/images/belle-piscine-exterieure-luxe-dans-hotel-complexe.jpg"
+      ]
+    },
+    {
+      "lib": "chambre standard",
+      "quantity": 4,
+      "personPerRoom": "3",
+      "numberOfBed": "2 grands lits",
+      "size": "moyenne",
+      "idHotel": 2,
+      "price": 20000,
+      "attributes": [
+        "Parking gratuit",
+        "Petit déjeuner en supplement",
+        "Vue sur la ville"
+      ],
+      "images": [
+        "http://localhost:5173/src/assets/images/belle-piscine-exterieure-luxe-dans-hotel-complexe.jpg"
+      ],
+      "id": 2
+    },
+    {
+      "lib": "chambre simple",
+      "quantity": 3,
+      "personPerRoom": "2",
+      "numberOfBed": "2 grands lits",
+      "size": "grande",
+      "idHotel": 3,
+      "price": 15000,
+      "attributes": [
+        "Accès au wifi inclus",
+        "Vue sur la ville"
+      ],
+      "images": [
+        "http://localhost:5173/src/assets/images/belle-piscine-exterieure-luxe-dans-hotel-complexe.jpg"
+      ],
+      "id": 3
+    }
+  ],
+  "lieux": [
+    {
+      "type": 2,
+      "name": "Bastos",
+      "latitude": 0,
+      "longitude": 0,
+      "slug": "bastos",
+      "id": 1,
+      "countrie": "Cameroon",
+      "slug_countrie": "cameroon"
+    },
+    {
+      "type": 2,
+      "name": "Etoa Meki",
+      "latitude": 0,
+      "longitude": 0,
+      "slug": "etoa_meki",
+      "id": 2,
+      "countrie": "Cameroon",
+      "slug_countrie": "cameroon"
+    },
+    {
+      "type": 2,
+      "name": "Paris",
+      "latitude": 0,
+      "longitude": 0,
+      "slug": "paris",
+      "id": 3,
+      "countrie": "Cameroon",
+      "slug_countrie": "cameroon"
+    },
+    {
+      "type": 2,
+      "name": "Carrefour Meec",
+      "latitude": 0,
+      "longitude": 0,
+      "slug": "carrefour_meec",
+      "id": 4,
+      "countrie": "Cameroon",
+      "slug_countrie": "cameroon"
+    }
+  ],
+  "typeLieux": [
+    {
+      "label": "Hôtels en plain coeur de la ville",
+      "name": "rural",
+      "id": 1,
+      "image": "/src/assets/images/rural.jpg",
+      "description": "Trouvez l’inspiration et des offres pour votre escapade de dernière minute"
+    },
+    {
+      "label": "Hôtels urbains",
+      "name": "urbain",
+      "id": 2,
+      "image": "/src/assets/images/urbain.jpg",
+      "description": "Trouvez l’inspiration et des offres pour votre escapade de dernière minute"
+    }
+  ],
+  "utilisateursHotels": [
+    {
+      "uid": 3,
+      "hid": 1,
+      "note": 5
+    },
+    {
+      "uid": 2,
+      "hid": 1,
+      "note": 5
+    }
+  ],
+  "reservations": [
+    {
+      "idHotel": 2,
+      "dateArrive": "2023-07-13",
+      "dateDepart": "2023-07-20",
+      "nbrAdult": "1",
+      "nbrKids": "2",
+      "validate": false,
+      "idTypeChambre": 1,
+      "dateLimite": "2023-07-11",
+      "dateReservation": "2023-06-20",
+      "uid": 5,
+      "id": 3
+    },
+    {
+      "idHotel": 2,
+      "dateArrive": "2023-07-21",
+      "dateDepart": "2023-07-26",
+      "nbrAdult": "1",
+      "nbrKids": "3",
+      "validate": false,
+      "idTypeChambre": 1,
+      "dateLimite": "2023-07-19",
+      "dateReservation": "2023-06-20",
+      "uid": 7,
+      "id": 4
+    },
+    {
+      "idHotel": 3,
+      "dateArrive": "2023-07-14",
+      "dateDepart": "2023-07-22",
+      "nbrAdult": "1",
+      "nbrKids": "0",
+      "validate": false,
+      "idTypeChambre": 3,
+      "dateLimite": "2023-07-12",
+      "dateReservation": "2023-06-22",
+      "uid": 12,
+      "id": 5
+    },
+    {
+      "idHotel": 3,
+      "dateArrive": "2023-07-07",
+      "dateDepart": "2023-07-27",
+      "nbrAdult": "1",
+      "nbrKids": "2",
+      "validate": false,
+      "idTypeChambre": 3,
+      "dateLimite": "2023-07-05",
+      "dateReservation": "2023-07-22",
+      "uid": 12,
+      "id": 6
+    },
+    {
+      "idHotel": 3,
+      "dateArrive": "2023-07-07",
+      "dateDepart": "2023-07-27",
+      "nbrAdult": "1",
+      "nbrKids": "2",
+      "validate": false,
+      "idTypeChambre": 3,
+      "dateLimite": "2023-07-05",
+      "dateReservation": "2023-07-23",
+      "uid": 12,
+      "id": 7
+    },
+    {
+      "idHotel": 3,
+      "dateArrive": "2023-07-13",
+      "dateDepart": "2023-07-28",
+      "nbrAdult": "1",
+      "nbrKids": "3",
+      "validate": false,
+      "idTypeChambre": 3,
+      "dateLimite": "2023-07-11",
+      "dateReservation": "2023-07-23",
+      "uid": 14,
+      "id": 8
+    },
+    {
+      "idHotel": 3,
+      "dateArrive": "2023-07-25",
+      "dateDepart": "2023-07-28",
+      "nbrAdult": "1",
+      "nbrKids": "0",
+      "validate": false,
+      "idTypeChambre": 3,
+      "dateLimite": "2023-07-23",
+      "dateReservation": "2023-07-24",
+      "uid": 16,
+      "id": 9
+    }
+  ]
+}
