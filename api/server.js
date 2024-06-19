@@ -24,7 +24,7 @@ const html = `
   </div>
 `;
 
-const parsed = parse(html);
+const parsed = parse(html.toString());
 console.log(parsed);
 server.use(router)
 server.listen(3000, () => {
